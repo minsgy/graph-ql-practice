@@ -1,5 +1,9 @@
 # graph-ql-practice
 
+## reference
+
+1. [DashBoard](https://www.youtube.com/watch?v=jx5hdo50a2M)
+
 ## 사용 API 리스트
 
 ```js
